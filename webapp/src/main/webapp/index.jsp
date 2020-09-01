@@ -48,7 +48,7 @@
 </head>
 <body>
   <div align="left">
-    <h1>Hello World! v8</h1>
+    <h1>Hello World! v9</h1>
 
     <h3>This web application was deployed using Jenkins CI/CD with Kubernetes cluster</h3>
     <p>Hi everyone,</p>
