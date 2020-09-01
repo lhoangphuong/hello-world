@@ -50,7 +50,7 @@
   <div align="left">
     <h1>Hello World! v8</h1>
 
-    <h3>This web application was deployed using Jenkins CI/CD with K̶u̶b̶e̶r̶n̶e̶t̶e̶s̶ ̶c̶l̶u̶s̶t̶e̶r docker-compose</h3>
+    <h3>This web application was deployed using Jenkins CI/CD with Kubernetes cluster</h3>
     <p>Hi everyone,</p>
     <p>This website was surpose to be running on Kubernetes cluster but ...</p>
     <p>I was able to deploy all services to Kubernetes cluster local network. However i'm not sure how to configure Ingress for Kubernetes and made it accessible from internet just yet! (I've been doing Kubernetes for 3 days :D)</p>
