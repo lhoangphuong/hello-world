@@ -48,20 +48,12 @@
 </head>
 <body>
   <div align="left">
-    <h1>Hello World! v9</h1>
-
-    <h3>This web application was deployed using Jenkins CI/CD with Kubernetes cluster</h3>
-    <p>Hi everyone,</p>
-    <p>This website was surpose to be running on Kubernetes cluster but ...</p>
-    <p>I was able to deploy all services to Kubernetes cluster local network. However i'm not sure how to configure Ingress for Kubernetes and made it accessible from internet just yet! (I've been doing Kubernetes for 3 days :D)</p>
-    <p>So please enjoy the website deployed by docker-compose while i'm figuring out Kubernetes Ingress</p>
+    <h1>Hello World! v10</h1>
+    <h3>This web application was deployed using Jenkins CI/CD with Kubernetes cluster (kops) + traefik ingress controller</h3>
     <p>Thank you very much!</p>
-    <h3>.<a href="http://lhoangphuong.ddns.net:3000">Grafana</a></h3>
-    <h3>.<a href="http://lhoangphuong.ddns.net:9090">Prometheus</a></h3>
-    <h3>.<a href="http://lhoangphuong.ddns.net:9292">Jenkins</a></h3>
-    <h3>.<a href="http://lhoangphuong.ddns.net:5555">Chat</a></h3>
-    <h3>.<a href="http://ec2-13-228-23-84.ap-southeast-1.compute.amazonaws.com:31201/">Whiteboard</a></h3>
-    <h3>.<a href="http://lhoangphuong.ddns.net:8600">Play mario game</a></h3>
+    <h1>|</h1>
+    <h1>|</h1>
+    <h1>|</h1>
     <h1>|</h1>
     <h1>|</h1>
 </body>
