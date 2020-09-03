@@ -49,10 +49,12 @@
 <body>
   <div align="left">
     <h1>Hello World! v10</h1>
-    <h3>This web application was deployed using Jenkins CI/CD with Kubernetes cluster (kops) + traefik ingress controller</h3>
+    <h2>This web application was deployed using Jenkins CI/CD with Kubernetes cluster (kops) + traefik ingress controller</h2>
+    <h3>Do you know three of the United Kingdoms best loved cheeses? Click below link!</h3>
+    <h3>.<a href="http://lhphuong.ddns.net:30553/stilton">stilton</a></h3>
+    <h3>.<a href="http://lhphuong.ddns.net:30553/cheddar">cheddar</a></h3>
+    <h3>.<a href="http://lhphuong.ddns.net:30553/wensleydale">wensleydale</a></h3>
     <p>Thank you very much!</p>
-    <h1>|</h1>
-    <h1>|</h1>
     <h1>|</h1>
     <h1>|</h1>
     <h1>|</h1>
